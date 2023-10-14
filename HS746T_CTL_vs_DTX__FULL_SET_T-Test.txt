@@ -1,0 +1,23 @@
+Cell Line:HS746T
+FeatureName	p<0.01	p
+object:number	0	0.4485
+object:EulerNumber	0	0.0646
+object_size:average	0	0.6876
+object_size:variance	0	0.5237
+object_size:ratio	0	0.0279
+object_distance:average	0	0.3173
+object_distance:variance	0	0.2418
+object_distance:ratio	0	0.8296
+edges:area_fraction	1	0.0011
+edges:homogeneity	0	0.7999
+edges:direction_maxmin_ratio	1	0.0004
+edges:direction_maxnextmax_ratio	0	0.4087
+edges:direction_difference	0	0.1352
+obj_skel_len	0	0.5460
+obj_skel_hull_area_ratio	0	0.3784
+obj_skel_obj_area_ratio	0	0.9464
+obj_skel_obj_fluor_ratio	0	0.9765
+obj_skel_branch_per_len	0	0.4570
+convex_hull:fraction_of_overlap	0	0.3399
+convex_hull:shape_factor	0	0.3004
+convex_hull:eccentricity	0	0.8351

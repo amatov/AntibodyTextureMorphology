@@ -1,0 +1,23 @@
+Cell Line:TMK1
+FeatureName	p<0.01	p
+object:number	1	0.0004
+object:EulerNumber	1	0.0000
+object_size:average	1	0.0000
+object_size:variance	1	0.0000
+object_size:ratio	0	0.0181
+object_distance:average	0	0.0489
+object_distance:variance	1	0.0001
+object_distance:ratio	0	0.0528
+edges:area_fraction	0	0.0135
+edges:homogeneity	1	0.0000
+edges:direction_maxmin_ratio	1	0.0090
+edges:direction_maxnextmax_ratio	0	0.1082
+edges:direction_difference	0	0.9562
+obj_skel_len	1	0.0000
+obj_skel_hull_area_ratio	0	0.2486
+obj_skel_obj_area_ratio	0	0.4571
+obj_skel_obj_fluor_ratio	0	0.4648
+obj_skel_branch_per_len	0	0.6773
+convex_hull:fraction_of_overlap	1	0.0000
+convex_hull:shape_factor	1	0.0081
+convex_hull:eccentricity	1	0.0004

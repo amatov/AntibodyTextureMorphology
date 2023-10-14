@@ -1,0 +1,23 @@
+Cell Line:AZ521
+FeatureName	p<0.01	p
+object:number	0	0.1103
+object:EulerNumber	0	0.0785
+object_size:average	0	0.0254
+object_size:variance	0	0.1188
+object_size:ratio	0	0.0263
+object_distance:average	0	0.0692
+object_distance:variance	0	0.5256
+object_distance:ratio	0	0.4200
+edges:area_fraction	1	0.0000
+edges:homogeneity	0	0.1146
+edges:direction_maxmin_ratio	0	0.0136
+edges:direction_maxnextmax_ratio	0	0.0723
+edges:direction_difference	0	0.1317
+obj_skel_len	1	0.0038
+obj_skel_hull_area_ratio	1	0.0003
+obj_skel_obj_area_ratio	0	0.6782
+obj_skel_obj_fluor_ratio	0	0.8323
+obj_skel_branch_per_len	0	0.9507
+convex_hull:fraction_of_overlap	1	0.0001
+convex_hull:shape_factor	1	0.0063
+convex_hull:eccentricity	0	0.1111
