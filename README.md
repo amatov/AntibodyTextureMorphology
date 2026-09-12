@@ -19,7 +19,7 @@ docetaxel treatment, using the Murphy Lab's SLIC method (see LICENSE).
   LICENSE).
 - `results/` -- T-Test result files and a hand-segmentation mask.
 - `reports/` -- analysis results.
-- **License:** see [LICENSE](LICENSE) for the origin of all code in
+- **License:** see [LICENSE](LICENSE) for the origin of the code in
   this repository.
 
 ## About
