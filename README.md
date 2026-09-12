@@ -10,8 +10,7 @@ docetaxel treatment, using the Murphy Lab's SLIC method (see LICENSE).
   `feat_combine_auto.m`, `feat_lowcommon.m`, `feat_lowcommon_field.m`,
   `TTest_Features.m`, `TTest_FeaturesPAPER.m`, `Runner_0703_2013.m`,
   `SC_CellLevelFeatures_Wrapper.m` -- Murphy Lab template scripts,
-  adapted only by substituting file paths to Alexandre Matov's own
-  image dataset (see LICENSE).
+  adapted only by substituting file paths to read my image dataset.
 - `SLIC/`, `SC_CellLevelFeatures.m`, `sc_autofeatcalc.m`,
   `sc_feat_combine_auto.m`, `sc_fieldfeatcalc.m`,
   `SC_Retrieve_Features.m`, `sc_regionfeatmat.m`, `sc_handseg.m`,
