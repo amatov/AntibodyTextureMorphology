@@ -1,29 +1,12 @@
 I didn't write this code. All of it -- the SLIC/ folder and the
-root-level driver scripts below -- is from the SLIC (Subcellular
-Location Image Classifier) toolbox, from Robert F. Murphy's lab at
-Carnegie Mellon:
+root-level driver scripts (see README.md) -- is from the SLIC
+(Subcellular Location Image Classifier) toolbox, from Robert F.
+Murphy's lab at Carnegie Mellon:
 
   Boland, M.V., Murphy, R.F. "A Neural Network Classifier Capable of
   Recognizing the Patterns of All Major Subcellular Structures in
   Fluorescence Microscope Images of HeLa Cells." Bioinformatics 17.12
   (2001): 1213-1223.
 
-I only swapped the file paths in these Murphy Lab templates to point
-to my own gastric cancer image dataset -- I didn't change the logic:
-
-  createproc_GC_AZ521.m, createproc_GC_HS746T.m, createproc_GC_MKN45.m,
-  createproc_GC_MKN7.m, createproc_GC_SCH.m, createproc_GC_SNU1.m,
-  createproc_GC_TMK1.m, handseg_GC_AZ521.m, handseg_GC_HS746T.m,
-  handseg_GC_MKN45.m, handseg_GC_MKN7.m, handseg_GC_SCH.m,
-  handseg_GC_SNU1.m, handseg_GC_TMK1.m, handseg.m,
-  feat_combine_auto.m, feat_lowcommon.m, feat_lowcommon_field.m,
-  TTest_Features.m, TTest_FeaturesPAPER.m, Runner_0703_2013.m,
-  SC_CellLevelFeatures_Wrapper.m
-
 `ContrastStretchNorm.m` is by Sergei Koptenko, Resonant Medical,
-Montreal, QC (March 2006) -- also not mine.
-
-What's actually mine: running this code on my dataset, and the output
--- the T-Test results in `results/` and the reports in `reports/`.
-
-No warranty. Ask the original authors for terms on reusing their code.
+Montreal, QC (March 2006).
