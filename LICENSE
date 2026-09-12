@@ -1,7 +1,6 @@
-I didn't write this code. All of it -- the SLIC/ folder and the
-root-level driver scripts (see README.md) -- is from the SLIC
-(Subcellular Location Image Classifier) toolbox, from Robert F.
-Murphy's lab at Carnegie Mellon:
+The SLIC/ folder and the root-level driver scripts (see README.md) are
+from the SLIC (Subcellular Location Image Classifier) toolbox, from
+Robert F. Murphy's lab at Carnegie Mellon:
 
   Boland, M.V., Murphy, R.F. "A Neural Network Classifier Capable of
   Recognizing the Patterns of All Major Subcellular Structures in
