@@ -19,9 +19,8 @@ docetaxel treatment, using the Murphy Lab's SLIC method (see LICENSE).
   unmodified.
 - `ContrastStretchNorm.m` -- by Sergei Koptenko, Resonant Medical (see
   LICENSE).
-- `results/` -- T-Test result files and a hand-segmentation mask,
-  Alexandre Matov's own analysis output.
-- `reports/` -- PDF reports, Alexandre Matov's own analysis output.
+- `results/` -- T-Test result files and a hand-segmentation mask.
+- `reports/` -- PDF reports.
 - **License:** see [LICENSE](LICENSE) for the origin of all code in
   this repository.
 
