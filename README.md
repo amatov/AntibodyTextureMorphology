@@ -2,9 +2,7 @@
 
 This repository contains an analysis of resistant and sensitive
 gastric cancer cell immunofluorescence images before and after
-docetaxel treatment, using the Murphy Lab's SLIC method (see LICENSE
-for the origin of all MATLAB code here -- none of it was written by
-Alexandre Matov).
+docetaxel treatment, using the Murphy Lab's SLIC method (see LICENSE).
 
 ## Repository contents
 
