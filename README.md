@@ -15,8 +15,7 @@ docetaxel treatment, using the Murphy Lab's SLIC method (see LICENSE).
 - `SLIC/`, `SC_CellLevelFeatures.m`, `sc_autofeatcalc.m`,
   `sc_feat_combine_auto.m`, `sc_fieldfeatcalc.m`,
   `SC_Retrieve_Features.m`, `sc_regionfeatmat.m`, `sc_handseg.m`,
-  `sc_mkp_GC.m`, `tz_*.m` -- the bundled Murphy Lab SLIC toolbox,
-  unmodified.
+  `sc_mkp_GC.m`, `tz_*.m` -- the bundled Murphy Lab SLIC toolbox.
 - `ContrastStretchNorm.m` -- by Sergei Koptenko, Resonant Medical (see
   LICENSE).
 - `results/` -- T-Test result files and a hand-segmentation mask.
