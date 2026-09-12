@@ -1,4 +1,5 @@
 
+% EDIT: hardcoded absolute path to the original author's machine
 imgroot = 'C:\ForAlex\GC_IMAGES\MKN7';
 dirs = dir([imgroot]);    dirs([1 2]) = [];
 dircount = 0;

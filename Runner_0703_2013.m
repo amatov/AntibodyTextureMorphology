@@ -1,3 +1,4 @@
+% EDIT: hardcoded absolute path to the original author's machine
 addpath(genpath(['c:\ForAlex\SLIC']));
 
 % this function create profile.mat in each image directory; profile.mat stores file names in each channel

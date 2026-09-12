@@ -1,4 +1,5 @@
 cellline = {'TMK1','MKN7'};
+% EDIT: hardcoded absolute path to the original author's machine
 imgroot = 'C:\ForAlex\GC_IMAGES\';
 
 

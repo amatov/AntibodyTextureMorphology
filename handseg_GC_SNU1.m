@@ -1,4 +1,6 @@
+% EDIT: hardcoded absolute path to the original author's machine
 addpath(genpath(['c:\ForAlex\SLIC']));
+% EDIT: hardcoded absolute path to the original author's machine
 imgroot = 'C:\ForAlex\GC_IMAGES\SNU1';
 
 dirs = dir([imgroot]);    dirs([1 2]) = [];

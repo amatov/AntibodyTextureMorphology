@@ -1,0 +1,53 @@
+Antibody Texture Morphology - License and Usage Notice
+==========================================================
+
+1. Scope
+--------
+This repository does not contain original code written by Alexandre
+Matov. All MATLAB code here -- the `SLIC/` folder in its entirety, and
+the following root-level driver scripts -- is from the SLIC
+(Subcellular Location Image Classifier) toolbox, developed by the
+laboratory of Robert F. Murphy, PhD, at the Center for Bioimage
+Informatics, Carnegie Mellon University:
+
+  Boland, M.V., Murphy, R.F. "A Neural Network Classifier Capable of
+  Recognizing the Patterns of All Major Subcellular Structures in
+  Fluorescence Microscope Images of HeLa Cells." Bioinformatics 17.12
+  (2001): 1213-1223.
+
+The following root-level scripts are Murphy Lab templates in which
+Alexandre Matov substituted file paths to point to his own gastric
+cancer immunofluorescence image dataset -- no other changes were made
+to their logic:
+
+  createproc_GC_AZ521.m, createproc_GC_HS746T.m, createproc_GC_MKN45.m,
+  createproc_GC_MKN7.m, createproc_GC_SCH.m, createproc_GC_SNU1.m,
+  createproc_GC_TMK1.m, handseg_GC_AZ521.m, handseg_GC_HS746T.m,
+  handseg_GC_MKN45.m, handseg_GC_MKN7.m, handseg_GC_SCH.m,
+  handseg_GC_SNU1.m, handseg_GC_TMK1.m, handseg.m,
+  feat_combine_auto.m, feat_lowcommon.m, feat_lowcommon_field.m,
+  TTest_Features.m, TTest_FeaturesPAPER.m, Runner_0703_2013.m,
+  SC_CellLevelFeatures_Wrapper.m
+
+`ContrastStretchNorm.m` is separately authored by Sergei Koptenko,
+Resonant Medical, Montreal, QC (March 2006), and is not covered by
+this notice either.
+
+2. What is Alexandre Matov's own work
+---------------------------------------
+Alexandre Matov's own contribution in this repository consists of
+running the above (third-party) code against his own gastric cancer
+dataset and the resulting output: the T-Test result files (`.txt`/
+`.xls`) in `results/`, and the PDF reports in `reports/`.
+
+3. No warranty
+---------------
+This software is provided "as is", without warranty of any kind,
+express or implied.
+
+4. Licensing of the third-party code
+---------------------------------------
+This repository does not grant any rights to the Murphy Lab SLIC
+toolbox code or to `ContrastStretchNorm.m` beyond what their original
+authors have made available. Consult the original authors for
+licensing terms governing reuse of that code.
