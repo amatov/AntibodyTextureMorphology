@@ -1,4 +1,4 @@
-## AntibodyTextureMorphology
+## Antibody Texture Morphology
 
 Analysis of immunofluorescence images of resistant and sensitive gastric cancer cells before and after docetaxel treatment.
 
