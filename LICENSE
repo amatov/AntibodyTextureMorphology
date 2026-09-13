@@ -1,6 +1,14 @@
-The SLIC/ folder and the root-level driver scripts (see README.md) are
-from the SLIC (Subcellular Location Image Classifier) toolbox, from
-Robert F. Murphy's lab at Carnegie Mellon:
+The following files are third-party code, tested/adapted by Alexandre Matov
+but not authored by him:
+
+`createproc_GC_*.m`, `handseg_GC_*.m`, `handseg.m`, `feat_combine_auto.m`,
+`feat_lowcommon.m`, `feat_lowcommon_field.m`, `TTest_Features.m`,
+`TTest_FeaturesPAPER.m`, `Runner_0703_2013.m`,
+`SC_CellLevelFeatures_Wrapper.m`, `SLIC/`, `SC_CellLevelFeatures.m`,
+`sc_autofeatcalc.m`, `sc_feat_combine_auto.m`, `sc_fieldfeatcalc.m`,
+`SC_Retrieve_Features.m`, `sc_regionfeatmat.m`, `sc_handseg.m`,
+`sc_mkp_GC.m`, `tz_*.m` -- from the SLIC (Subcellular Location Image
+Classifier) toolbox, from Robert F. Murphy's lab at Carnegie Mellon:
 
   Boland, M.V., Murphy, R.F. "A Neural Network Classifier Capable of
   Recognizing the Patterns of All Major Subcellular Structures in
