@@ -1,6 +1,6 @@
 # Dependencies
 
-No specific MATLAB version is recorded. The bundled SLIC toolbox code
-checks for MATLAB's **Statistics Toolbox** at runtime (see
-`sc_autofeatcalc.m`). See LICENSE for the origin of all MATLAB code in
+No specific Matlab version is recorded. The bundled SLIC toolbox code
+checks for Matlab's **Statistics Toolbox** at runtime (see
+`sc_autofeatcalc.m`). See LICENSE for the origin of all Matlab code in
 this repository.
